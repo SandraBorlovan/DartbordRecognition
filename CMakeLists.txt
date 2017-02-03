@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project( DisplayImage )
+find_package( OpenCV REQUIRED )
+add_executable( detect detect.cpp )
+#add_executable( hough_transform hough_transform.cpp)
+target_link_libraries( detect ${OpenCV_LIBS} )
+#target_link_libraries( hough_transform ${OpenCV_LIBS})

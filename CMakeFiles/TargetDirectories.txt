@@ -1,0 +1,3 @@
+/home/silviu/Documents/IPCV/CWK2/CMakeFiles/edit_cache.dir
+/home/silviu/Documents/IPCV/CWK2/CMakeFiles/rebuild_cache.dir
+/home/silviu/Documents/IPCV/CWK2/CMakeFiles/detect.dir
